@@ -1,1 +1,3 @@
 # catchat
+
+Chat with cats!
